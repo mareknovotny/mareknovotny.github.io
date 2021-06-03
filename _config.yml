@@ -1,0 +1,8 @@
+title: Marek Novotny's personal page
+description: my github.io user pages
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
